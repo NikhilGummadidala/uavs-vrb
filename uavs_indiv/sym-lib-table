@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "uavs_pdb")(type "KiCad")(uri "${KIPRJMOD}/uavs_pdb.kicad_sym")(options "")(descr ""))
+)
