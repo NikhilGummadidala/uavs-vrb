@@ -5080,15 +5080,14 @@
 		(layer "Edge.Cuts")
 		(uuid "b593f4ea-1859-442a-973e-3bca1ff95375")
 	)
-	(gr_text "why havent u started yet dumbass"
-		(at -1245.5 -173.5 0)
-		(layer "F.Cu")
-		(uuid "057c6294-ac6f-487d-9f75-46c768dcf36f")
+	(gr_text "Nikhil Gummadidala"
+		(at 219 28 0)
+		(layer "F.SilkS")
+		(uuid "d4b9937c-e203-4b06-886a-239a3dcec852")
 		(effects
 			(font
-				(size 100 100)
-				(thickness 20)
-				(bold yes)
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
@@ -6364,6 +6363,20 @@
 				(xy 163.2995 35.102135) (xy 129 35.102135) (xy 129 22.624575) (xy 129.019685 22.557536) (xy 129.072489 22.511781)
 				(xy 129.12457 22.500576)
 			)
+		)
+	)
+	(group ""
+		(uuid "171ab1ed-7f44-4d43-95ef-2f915bafc881")
+		(members "22140ed1-756e-41a4-9d49-fbdfd35b7d6a" "23d31e87-93ed-4e0a-9616-89849535bec7"
+			"2b7d7a1a-4a32-49a8-8cfa-6527cc26b4a0" "2fe9e073-72a5-4aed-a92e-d5b4c162e45b"
+			"4bf6b008-ff5a-4964-aaf0-0080f85656c0" "4e5911f0-c088-4619-8884-d1f3c3af7060"
+			"564f98f7-52d9-46e6-a810-7242e843f151" "5d988a54-7c61-43c2-b00a-2fd897df1714"
+			"5fa07a42-df69-4905-aeda-c575929e9b95" "84a5b02e-e3cc-4577-8c86-8c9cbcecb784"
+			"959fda9b-2020-44f8-8151-f95f94510a31" "96b29b8e-8289-43cb-a1a5-b40429c5e14c"
+			"9949c927-d1ee-428a-827d-9d41e442d9fe" "99eab567-5164-4258-9b0a-c1d4163fa726"
+			"9aa1177d-9894-47e0-9754-030981c918ed" "c683ee58-d7c7-45cd-b983-6164c2c6c8b4"
+			"c919fed8-55a1-48de-8cdf-6dfacc3b540f" "cf1ae832-df63-4838-bb96-79eb712def17"
+			"e61e609f-35d9-417d-ae65-22742d10c756"
 		)
 	)
 	(embedded_fonts no)
